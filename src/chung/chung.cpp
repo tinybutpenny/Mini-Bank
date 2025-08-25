@@ -1,6 +1,8 @@
 #include "chung.h"
 
-std::string ten[];
+std::string ten[1000]= {"duongthang", "nguyenhuyen"};
+std::string matkhau[1000] = {"thang2004@", "huyen2004@"};
+std::string mapin[1000] = {"879485", "456782"};
 
 void donrac() {
     std::cin.clear();
@@ -8,6 +10,9 @@ void donrac() {
     return;
 }
 
+void nhap() {
+
+}
 std::string kituthuong(std::string kitu) {
     for (char &a : kitu) {
         a = tolower(a);

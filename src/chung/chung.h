@@ -12,9 +12,12 @@
 #define xanhduong "\33[94m"'
 #define tim "\33[95m";
 
-extern std::string ten[];
+extern std::string ten[10];
+extern std::string matkhau[10];
+extern std::string mapin[10];
 
 void donrac();
+void nhap();
 std::string kituthuong(std::string kitu);
 std::string kituhoa(std::string kitu);
 char chonthoat();
