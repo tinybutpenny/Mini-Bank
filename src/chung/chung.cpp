@@ -10,10 +10,6 @@ void donrac() {
     std::cin.ignore(std::numeric_limits<std::streamsize>::max() , '\n');
     return;
 }
-
-void nhap() {
-
-}
 std::string kituthuong(std::string kitu) {
     for (char &a : kitu) {
         a = tolower(a);

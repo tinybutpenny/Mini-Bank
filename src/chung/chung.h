@@ -18,7 +18,6 @@ extern std::string mapin[1000];
 extern int sokhach;
 
 void donrac();
-void nhap();
 std::string kituthuong(std::string kitu);
 std::string kituhoa(std::string kitu);
 char chonthoat();
