@@ -12,9 +12,9 @@
 #define xanhduong "\33[94m"'
 #define tim "\33[95m";
 
-extern std::string ten[1000];
-extern std::string matkhau[1000];
-extern std::string mapin[1000];
+extern std::string ten[100];
+extern std::string matkhau[100];
+extern std::string mapin[100];
 extern int sokhach;
 
 void donrac();
