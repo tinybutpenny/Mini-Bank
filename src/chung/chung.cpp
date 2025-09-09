@@ -2,7 +2,7 @@
 
 std::string ten[1000]= {"duongthang"};
 std::string matkhau[1000] = {"thang200@"};
-std::string mapin[1000] = {"8794"};
+std::string mapin[1000] = {"879"};
 int sokhach = 0;
 
 void donrac() {
