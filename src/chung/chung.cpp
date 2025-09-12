@@ -1,7 +1,7 @@
 #include "chung.h"
 
 std::string ten[1000]= {"duongthang"};
-std::string matkhau[1000] = {"thang200"};
+std::string matkhau[1000] = {"thang20"};
 std::string mapin[1000] = {"879"};
 int sokhach = 0;
 
